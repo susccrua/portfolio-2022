@@ -1,0 +1,11 @@
+Model Information:
+* title:	HP 3D Printer
+* source:	https://sketchfab.com/3d-models/hp-3d-printer-f7feb06f047740fd908f9329c12f4e9c
+* author:	ionao (https://sketchfab.com/ionao)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HP 3D Printer" (https://sketchfab.com/3d-models/hp-3d-printer-f7feb06f047740fd908f9329c12f4e9c) by ionao (https://sketchfab.com/ionao) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
