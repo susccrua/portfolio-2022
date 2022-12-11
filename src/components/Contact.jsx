@@ -28,7 +28,7 @@ export default function Popup(props) {
                 </div>
             }
 
-            <div className={`absolute bottom-8 right-8 w-20 h-20 ${bounce} delay-300 duration-300 rounded-full bg-indigo-600 `} onClick={onClick}>
+            <div className={`absolute bottom-8 right-8 w-20 h-20 ${bounce} delay-300 duration-300 rounded-full bg-white `} onClick={onClick}>
 
 
             </div >
